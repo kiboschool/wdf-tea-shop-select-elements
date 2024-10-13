@@ -1,0 +1,33 @@
+/* should select the body element  */ 
+{
+  background-color: #222;
+  color: #eee;
+  max-width: 400px;
+  margin: auto;
+}
+
+/* the h1, h2, and h3 should each get this style */ 
+{
+  font-family: Didot, serif;
+  margin-bottom: 0;
+}
+
+/* should apply to the p and li elements */
+ {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+/* should select each element with class "description" */
+ {
+  font-size: 14px;
+  margin: 1em;
+  padding: 0 1em;
+}
+
+/* should apply to the contact form at the bottom */
+ {
+  font-family: Verdana;
+  color: lavender;
+  padding: 8px;
+  border: 1px solid lavender; 
+}
